@@ -1,0 +1,46 @@
+body{
+background-color: #fbfbfd;
+}    
+
+h1,h2,h3,h4,h5,h6{
+    font-family: sans-serif;
+    color:#333333;
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+}
+
+a{
+    font-family: sans-serif;
+    color: #424245;
+    
+}
+
+p,h1,h2,h3,h4,h5,h6{
+    text-align: center;
+}
+
+image{
+    width: 400em;
+    height: 400em;
+    text-align: center;
+}
+
+.nav{
+    margin-left: 40em;
+}
+
+.nav-products{
+    margin-left: 40em;
+    margin-right: 0.5em;
+}
+
+li{
+    list-style-position: inside;
+    text-align: center;
+}
+
+p{
+    font-family: sans-serif;
+}
