@@ -1,58 +1,185 @@
+.div-textBar{
+    
+    width: 582px;
+    height: 44px;
+    border-color:  #eeeeeed2;
+    border-style:solid; 
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    border-width: 0.045cm;
+    margin-top: 20px;
+    
+}
+
+
 .main-tr{
     font-family: sans-serif;
-    background-color: #eeeeee;
     text-align: center; 
-    width: 75.5%;  
-    padding: 0.1em;
+    width: 874.4px;
+    height: 160px;
+    padding: 5px;
     margin-left: auto;
-    margin: auto;
-    margin-bottom: 0.1em;
-}
-
-.box-left{
-    background-color: #7ee5da;
-    font-family: sans-serif;
-    text-align: center;
-    float: left;
-    margin-left: 14.2em;
-    width: 25%;
-    padding-bottom: 2.33em;
-    font-size: small;
-    margin-right: 0.1em;
+    margin-right: auto;
     
 }
 
-.box-center{
-    background-color: #70ccc2;
-    font-family: sans-serif;
+.googlesearch {
+    margin: 30px 4px;
+    padding: 4px 16px;
+    line-height: 27px;
+    min-width: 54px;
     text-align: center;
-    float: left;
-    width: 25%;
+    cursor: pointer;
+    user-select: none;
+    border: none;
+    border-radius: 4px;
+    background-color: #f8f9fa;
+    font-size: 14px;
+    color: #202124;
+    font-family: Arial, Helvetica, sans-serif;
     
-    padding-bottom: 2.33em;
-    font-size: small;
-    margin-right: 0.1em;
+  }
+
+  .feelinglucky {
+    margin: 30px 4px;
+    padding: 4px 16px;
+    line-height: 27px;
+    min-width: 54px; 
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px ;
+    background-color: #f8f9fa;
+    color: #202124;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .voiceLogo{
+    width: 25px;
+    height: 25px;
+    margin-left: 33.5em;
+    padding-bottom: 5em;
+    align-items: center;
+    margin-top: -30px;
+      
 }
 
-.box-right{
-    background-color: #62b3aa;
-    font-family: sans-serif;
-    text-align: center;
-    float: left;
-    width: 24.85%;
-    padding: 0.4em;
-    font-size: small;
+.handGlass{
+    width: 20px;
+    height: 20px;
+    margin-left: 1em;
+    padding-bottom: 6.2em;
+    align-items: center;
+    margin-top: -200px;
     
+}
+
+.textBar{
+    width: 487px;
+    height: 34px;
+    border: none;
+    margin-top: 3px;
+    margin-left: 42px;
+    
+}
+
+
+.menu-bar{
+
+    width: 16px;
+    height: 16px;
+    margin-top: 10px;
+    margin-left: 1.8em;
+    
+}
+
+
+
+.pp{
+    width: 30px;
+    height: 30px;
+    border-radius:50%;
+    margin-left: 1.5em;
+    margin-top: 0.8em;
+    
+    
+}
+
+.a-position{
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    margin-left: 1.3em;
+    font-size: small;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #212121;
+    font-size: small;
 }
 
 header{
     text-align: center;
+    margin-top: 68px;    
     
+}   
+
+.TurkeyLetter{
+   
+
+    color: #70758d;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-left: 28px;
+
 }
 
-footer{
-    clear: both;
-    padding-top: 0.1em;
-    text-align: center;
-    font-size: small;
+body{
+    margin: 0px;
+    padding: 0px;
 }
+
+.div-footer-left{
+   
+    float: left;
+    color: #70758d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 2em;
+    padding-top: 0.5em;
+    
+    
+}
+.div-footer-right{ 
+    
+    float: right;
+    color: #70758d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    margin-right: 2em;
+    padding-top: 0.5em;
+   
+}
+
+
+
+.div-footer{
+    
+
+    padding-bottom: 35px;
+    padding-top: 1px ;
+    background-color: #F2F2F2;
+    margin-top: 165px;
+
+}
+
+.headerli a:hover {
+    text-decoration: underline;
+  }
+
+  .search-area:hover {
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+    }
+
